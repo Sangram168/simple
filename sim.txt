@@ -1,6 +1,4 @@
 this is git hub
 and this is the second line
-Html Basic
-Css BAsic
 
 
